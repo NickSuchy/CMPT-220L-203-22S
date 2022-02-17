@@ -28,6 +28,9 @@ public class Main {
             case("Sprinkles"):
                 System.out.println("Your free topping is Sprinkles");
                 break;
+            default:
+                System.out.println("You choose to not get a free topping");
+                break;
         }
 
         // Give me an example of you using a for loop
@@ -107,17 +110,14 @@ public class Main {
      */
 
     static int pythagorean(int a, int b){
-        int c = (int) Math.sqrt(addition(exponents(a,2), exponents(b,2)));
-        return c;
+        return (int) Math.sqrt(addition(exponents(a,2), exponents(b,2)));
     }
 
     static int addition(int a, int b) {
-        int answer = a + b;
-        return answer;
+        return (int) a + b;
     }
 
     int division(int a, int b) {
-        int answer = a / b;
-        return answer;
+        return (int) a / b;
     }
 }
