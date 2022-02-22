@@ -30,10 +30,33 @@ public class Main {
     public static void main(String[] args) {
         //	Replace this with your dry inventory function!
         wet_inventory();
+        //dry_inventory();
     }
 
     static void dry_inventory() {
         // Your DRY Solution goes here!
+        int[] customer_list = {4, 1, 4, 2, 3, 0, 3, 0, 0, 1, 2, 0, 0, 6, 10, 0, 4, 5, 2, 0, 0, 10, 8, 10, 6, 0, 0, 0, 1, 0, 1, 0, 0, 0, 7, 4, 2, 0, 0, 6, 3, 0, 9, 2, 3};
+        int pretzels_multipler = 2;
+        int lemonades_multiplier = 8;
+        
+        for(int x = 0; x < 45; x = x + 3){
+            int pretzels_brought = customer_list[x];
+            int lemonades_brought = customer_list[x + 1];
+            tips += (double) customer_list[x + 2];
+            pretzels_available -= pretzels_brought;
+            lemonades_available -= lemonades_brought;
+            cash += ((pretzels_brought * pretzels_multipler) + (lemonades_brought * lemonades_multiplier));
+        }
+        
+        System.out.println("Results for the hour!" + "\n"
+        + "Lemonades Inventory: " + lemonades_available + "\n"
+        + "Pretzels Inventory: " + pretzels_available + "\n"
+        + "Cash: " + cash + "\n"
+        + "Tips: " + tips);
+        
+        
+        
+        
     }
 
     static void wet_inventory() {

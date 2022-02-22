@@ -1,0 +1,12 @@
+
+y
+java:S3008"^Rename this field "lemonades_available" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ç»‹øÿÿÿÿ
+r
+java:S3008"]Rename this field "pretzels_available" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡f
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÑ¥
+b	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—µüI
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(à„Ò‚şÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(š§âŒ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(¼ßüÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(é´¼èøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦¼Š™

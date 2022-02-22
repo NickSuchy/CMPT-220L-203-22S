@@ -1,5 +1,4 @@
 package base;
-import java.lang.Math;
 
 public class Main {
     /**
@@ -114,10 +113,10 @@ public class Main {
     }
 
     static int addition(int a, int b) {
-        return (int) a + b;
+        return a + b;
     }
 
     int division(int a, int b) {
-        return (int) a / b;
+        return a / b;
     }
 }
