@@ -29,8 +29,8 @@ public class Main {
 
     public static void main(String[] args) {
         //	Replace this with your dry inventory function!
-        wet_inventory();
-        //dry_inventory();
+        //wet_inventory();
+        dry_inventory();
     }
 
     static void dry_inventory() {
