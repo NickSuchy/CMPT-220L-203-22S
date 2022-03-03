@@ -1,5 +1,6 @@
 
-S
-java:S1854"8Remove this useless assignment to local variable "phil".(°ï¦ºşÿÿÿÿ
-D
-java:S1481")Remove this unused "phil" local variable.(°ï¦ºşÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "hexByte".(±Äñ
+B
+java:S1481",Remove this unused "hexByte" local variable.(±Äñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¦¯êÿÿÿÿÿ
