@@ -1,0 +1,20 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ô¤”ñ
+J
+java:S3740"/Provide the parametrized type for this generic.(ÙŒÔÏøÿÿÿÿ
+J
+java:S3740%"/Provide the parametrized type for this generic.(˜¤µùÿÿÿÿ
+F
+java:S1481'"+Remove this unused "values" local variable.(µÕÚùÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ô¤”ñ
+€
+java:S1319"jThe type of "itemValues" should be an interface such as "List" rather than the implementation "ArrayList".(Ô¤”ñ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÙŒÔÏøÿÿÿÿ
+…
+java:S1319"jThe type of "itemValues" should be an interface such as "List" rather than the implementation "ArrayList".(ÙŒÔÏøÿÿÿÿ
+€
+java:S1319$"jThe type of "itemValues" should be an interface such as "List" rather than the implementation "ArrayList".(Û×Ùş
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ×ü®
