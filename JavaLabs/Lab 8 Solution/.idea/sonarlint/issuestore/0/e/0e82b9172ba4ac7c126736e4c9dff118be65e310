@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅĞ«Ë8°İ¹•/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅĞ«Ë8¶×€¹•/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(…ÓŠüÿÿÿÿ8òş¸•/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ÆÄÀ‡ûÿÿÿÿ8‘‚¹•/
+]	java:S125Q"<This block of commented-out lines of code should be removed.(Á­í£şÿÿÿÿ8öğ’Ä•/
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ëıƒûûÿÿÿÿ8Õù¸•/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½•ÿ½8¯ô¸•/
+h
+java:S1192"KDefine a constant instead of duplicating this literal "The value " 3 times.(ÅĞ«Ë8°İ¹•/
+b
+java:S2259G"FA "NullPointerException" could be thrown; "lastNode" is nullable here.(„ ü8ˆ¡“Ä•/
